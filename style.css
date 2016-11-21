@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  padding-top: 70px;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
+
+.con {
+  display: inline-block;
+  height: 75px;
+  text-align: center;
+  vertical-align: bottom;
+}
+
+.ico {
+  text-align: center;
+}
+
+.d1 {
+  text-align: center;
+  padding-top: 15px;
+}
+.ct {
+  font-size: 30px;
+}
+.p1 {
+  font-size: 45px;
+}
+.dis {
+  text-align: center;
+  padding-top: 250px;
+  color: red;
+}
